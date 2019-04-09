@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: StarWars
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: diego.oliveira
+Implementation-Vendor-Id: com.br.starwars
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/starwars/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
